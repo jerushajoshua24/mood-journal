@@ -1,0 +1,7 @@
+streamlit
+pandas
+sqlite3  # actually built-in, but safe to note
+matplotlib
+plotly
+textblob
+requests
